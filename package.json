@@ -1,0 +1,20 @@
+{
+  "name": "vue-cli-plugin-workshop-app",
+  "version": "0.0.1",
+  "description": "vue-cli plugin form my workshops",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackpr/vue-cli-plugin-workshop-app.git"
+  },
+  "homepage": "https://github.com/blackpr/vue-cli-plugin-workshop-app#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tim Pap (https://twitter.com/blackpr)",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
