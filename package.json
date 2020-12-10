@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-plugin-workshop-app",
+  "name": "@blackpr/vue-cli-plugin-workshop-app",
   "version": "0.0.1",
   "description": "vue-cli plugin form my workshops",
   "main": "index.js",
